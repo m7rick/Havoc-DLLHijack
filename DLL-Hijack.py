@@ -27,7 +27,7 @@ dialog = havocui.Dialog("DLL Hijacking Tools", True, 670, 300)
 
 # Configuration
 OUTPUT_SOURCE_LANGUAGE = ["GO", "CPP"]
-SHOW_MESSAGE = ["True","False"]
+SHOW_MESSAGE = ["False","True"]
 
 # Labels
 Orginal_label_to_replace = f"<b style=\"color:{HAVOC_ERROR};\">No DLL Path selected.</b>"
