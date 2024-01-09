@@ -2,6 +2,10 @@
 ## Havoc DLL Hijack GUI
 ![image](https://github.com/m7rick/Havoc-DLLHijack/blob/main/res/1704704529960.jpg)
 
+Install dependencies before use
+```shell
+pip install pefile
+```
 ## The resulting template
 ![image](https://github.com/m7rick/Havoc-DLLHijack/blob/main/res/1704704682893.jpg)
 
